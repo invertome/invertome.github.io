@@ -1,22 +1,20 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "About InverTome"
+    url: /aboutus/
         
-  - title: "Blog Posts"
+  - title: "People"
+    url: /people/
+    
+  - title: "Projects"
+    url: /projects/  
+ 
+  - title: "Publications & Presentations"
+    url: /publications/  
+
+  - title: "Tomes"
+    url: /tomes/   
+        
+  - title: "Blog"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
