@@ -1,14 +1,14 @@
 ---
 title: "CrusTome"
 collection: teaching
-type: "BLAST Database"
+type: "Perez-Moreno et al." #Authors
 permalink: /tomes/crustome
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "G3" #publication info
+date: 2022-11-11
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a the tome. You can use markdown like any other post.
 
 Heading 1
 ======
