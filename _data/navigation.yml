@@ -2,6 +2,9 @@
 main:
   - title: "About InverTome"
     url: /about/
+    
+  - title: "Tomes"
+    url: /tomes/ 
         
   - title: "People"
     url: /people/
@@ -11,9 +14,6 @@ main:
  
   - title: "Publications"
     url: /publications/  
-
-  - title: "Tomes"
-    url: /tomes/   
         
   - title: "Blog"
     url: /year-archive/
