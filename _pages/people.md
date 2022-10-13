@@ -7,7 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Hello world
+Dr. Mihika T. Kozma
+
+Dr. Jorge L. Perez-Moreno
+
 
 {% for post in site.people %}
   {% include archive-single.html %}
