@@ -9,11 +9,12 @@ author_profile: true
 
 ### Dr. Mihika T. Kozma
 
-> Lobster's are cool.
+> Lobsters are cool.
 
 ### Dr. Jorge L. Perez-Moreno
 
 > Got crabs?
+
 
 {% for post in site.people %}
   {% include archive-single.html %}
