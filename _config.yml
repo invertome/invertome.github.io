@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "InverTome | Bioinformatics of non-traditional model organisms"
+title                    : "InverTome | Bioinformatics of understudied organisms"
 title_separator          : "-"
 name                     : &name "InverTome"
-description              : &description "Exploring the diversity within understudied non traditional model organisms | Omics Tools & Analyses | Genomics, Epigenomics, Metagenomics, Transcriptomics | Integrative Multiomic Analyses"
+description              : &description "Exploring the diversity within understudied non-traditional model organisms | Omics Tools & Analyses | Genomics, Epigenomics, Metagenomics, Transcriptomics | Integrative Multiomic Analyses"
 url                      : https://invertome.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "invertome/invertome.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "InverTome"
   avatar           : "profile.png"
-  bio              : "Independent Bioinformatics Workgroup | Non-Model Organisms | Omics Tools & Analyses | Genomics, Epigenomics, Metagenomics, Transcriptomics"
+  bio              : "Harnessing the power of invertebrate genomes | Omics tools & analyses |"
   location         : "Planet Earth"
   employer         :
   pubmed           : ""
