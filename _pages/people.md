@@ -7,13 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-### Dr. Mihika T. Kozma
+### Mihika T. Kozma, Ph.D.
 
-> Lobsters are cool.
+> Sensory Biology. Transcriptomics.
 
-### Dr. Jorge L. Perez-Moreno
+### Jorge L. Perez-Moreno, Ph.D.
 
-> Got crabs?
+> Evolutionary Biology. Phylogenomics.
+
+### Sithija Wijesinghe, M.BioInfo.
+
+> Microbiology. Bioinformatics.
 
 
 {% for post in site.people %}
