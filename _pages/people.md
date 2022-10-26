@@ -7,15 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-### Mihika T. Kozma, Ph.D.
+### M
 
 > Sensory Biology. Transcriptomics.
 
-### Jorge L. Perez-Moreno, Ph.D.
+### J
 
 > Evolutionary Biology. Phylogenomics.
 
-### Sithija Wijesinghe, M.BioInfo.
+### S
 
 > Microbiology. Bioinformatics.
 
