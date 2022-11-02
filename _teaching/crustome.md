@@ -2,7 +2,7 @@
 title: "CrusTome: A transcriptome database resource for large-scale analyses across Crustacea"
 collection: teaching
 type: "Jorge L. Pérez-Moreno, Mihika T. Kozma, Danielle M. DeLeo, Heather D. Bracken-Grissom, David S. Durica, and Donald L. Mykles" #Authors
-permalink: [/tomes/crustome](https://github.com/invertome/crustome)
+permalink: https://github.com/invertome/crustome
 venue: "In review" #publication info
 date: 2022-11-11
 location: "City, Country"
