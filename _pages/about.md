@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Exploring Evolutionary Innovation within Non-Model Organisms."
+title: "Evolution has the answers."
 excerpt: "About us"
 author_profile: true
 redirect_from: 
