@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Modern medicine and our understanding of the biological world has been fueled by studying a handful of organisms in great detail. By examining only a limited number of species, we are yet to harness the full potential that the biological world has to offer. Majority of animal life is comprised of invertebrates that have adapted to almost every known ecosystem on Planet Earth. Exploring the untapped potential of invertebrate genomes & microbiomes is the engine that will transport us to the next age of discovery. Enter InverTome.
+Modern medicine and our understanding of the biological world has been fueled by studying a handful of organisms in great detail. By examining only a limited number of species, we are yet to harness the full potential that the biological world has to offer. A majority of animal life is comprised of invertebrates that have adapted to almost every known ecosystem on Planet Earth. Exploring the untapped potential of the evolutionary innovation contained within invertebrate genomes & microbiomes is the engine that will transport us to the next age of discovery. Enter InverTome.
 
 A data-driven approach to biological discovery
 ======
