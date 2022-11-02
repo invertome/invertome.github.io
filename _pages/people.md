@@ -1,23 +1,37 @@
 ---
 layout: archive
-title: "People"
+title: "Team"
 permalink: /people/
 author_profile: true
 ---
 
 {% include base_path %}
 
-### M
+
+### Science Team
+
+
+## M
 
 > Sensory Biology. Transcriptomics.
 
-### J
+## J
 
 > Evolutionary Biology. Phylogenomics.
 
-### S
+## S
 
 > Microbiology. Bioinformatics.
+
+
+
+### Scientific Advisors
+
+
+## H
+
+
+## D
 
 
 {% for post in site.people %}
